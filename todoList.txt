@@ -1,0 +1,7 @@
+{"id": "7d3c081a-a512-49dc-8fd1-60a317eb525d", "task": "form kullan", "completed": true}
+{"id": "67cacbba-6201-4896-88ae-b5e4288d1e69", "task": "react ile yaz", "completed": true}
+{"id": "b829adc9-6763-4ec3-8bcd-df52c6b0f5e8", "task": "update eklendi", "completed": true}
+{"id": "8ba57d86-6557-4af3-9971-cde93796fbf5", "task": "oop temelleri (abstraction)", "completed": false}
+{"id": "d53edc0a-8443-435f-a1b9-b4734598c0c8", "task": "python django ile backend", "completed": true}
+{"id": "bbbef439-0865-4948-a219-29e9922f3541", "task": "react ile frontend", "completed": false}
+{"id": "e140eeee-a7a9-4471-b3d0-1ed1f16d499f", "task": "django backend completed", "completed": false}
